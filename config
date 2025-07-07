@@ -4,6 +4,23 @@ clipboard-read = allow
 clipboard-write = allow
 window-subtitle = working-directory
 window-padding-balance = true
-theme = rose-pine-moon
+theme = dark:GitLab-Dark,light:GitLab-Light
 bold-is-bright = true
 keybind = f11=toggle_fullscreen
+
+keybind = ctrl+shift+h=new_split:left
+keybind = ctrl+shift+j=new_split:down
+keybind = ctrl+shift+k=new_split:up
+keybind = ctrl+shift+l=new_split:right
+
+keybind = alt+h=goto_split:left
+keybind = alt+j=goto_split:down
+keybind = alt+k=goto_split:up
+keybind = alt+l=goto_split:right
+
+keybind = alt+left=goto_split:left
+keybind = alt+down=goto_split:down
+keybind = alt+up=goto_split:up
+keybind = alt+right=goto_split:right
+
+keybind = ctrl+shift+d=close_surface
