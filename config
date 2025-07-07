@@ -1,0 +1,9 @@
+window-padding-color = extend
+window-step-resize = true
+clipboard-read = allow
+clipboard-write = allow
+window-subtitle = working-directory
+window-padding-balance = true
+theme = rose-pine-moon
+bold-is-bright = true
+keybind = f11=toggle_fullscreen
