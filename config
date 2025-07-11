@@ -1,3 +1,5 @@
+command = nu
+confirm-close-surface = false
 window-padding-color = extend
 window-step-resize = true
 clipboard-read = allow
@@ -6,6 +8,8 @@ window-subtitle = working-directory
 window-padding-balance = true
 theme = dark:GitLab-Dark,light:GitLab-Light
 bold-is-bright = true
+font-size = 10
+
 keybind = f11=toggle_fullscreen
 
 keybind = ctrl+shift+h=new_split:left
